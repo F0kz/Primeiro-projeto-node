@@ -4,7 +4,7 @@ class Person {
     }
     sayMyName()
     {
-        return 'Meu nome é ' + this.name;
+        return 'My name is ' + this.name;
     }
 }
 
